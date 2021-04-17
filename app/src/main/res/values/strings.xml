@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string-array name="units">
+        <item>Millimeter</item>
+        <item>Centimeter</item>
+        <item>Meter</item>
+        <item>Kilometer</item>
+        <item>Inch</item>
+        <item>Foot</item>
+        <item>Yard</item>
+        <item>Mile</item>
+    </string-array>
+    <string-array name="tem">
+        <item>Celsius</item>
+        <item>Kelvin</item>
+        <item>Fahrenheit</item>
+    </string-array>
+
+    <string-array name="tim">
+        <item>SECOND</item>
+        <item>MINUTE</item>
+        <item>HOUR</item>
+        <item>DAY</item>
+        <item>WEEK</item>
+        <item>MONTH</item>
+        <item>YEAR</item>
+
+    </string-array>
+
+    <string-array name="Wei">
+        <item>KILOGRAM</item>
+        <item>GRAM</item>
+        <item>POUND</item>
+        <item>OUNCE</item>
+        <item>TON</item>
+
+    </string-array>
+
+    <string-array name="Are">
+        <item>SQUARE METER</item>
+        <item>SQUARE KILOMETER</item>
+        <item>SQUARE MILE</item>
+        <item>SQUARE FOOT</item>
+        <item>SQUARE YARD</item>
+        <item>ACRE</item>
+
+    </string-array>
+
+</resources>
